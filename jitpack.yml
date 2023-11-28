@@ -1,3 +1,0 @@
-install:
-  - FILE="-Dfile=datssec.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.mydatindo -DartifactId=datssec -Dversion=0.0.1 -Dpackaging=aar -DpomFile=pom.xml
