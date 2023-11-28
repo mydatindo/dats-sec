@@ -4,5 +4,7 @@
  
   <groupId>com.github.mydatindo</groupId>
   <artifactId>dats-sec</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
+  <packaging>pom</packaging>
+  <description>Latest version</description>
 </project>
