@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>com.github.mydatindo</groupId>
-  <artifactId>dats-sec</artifactId>
-  <version>0.0.6</version>
+  <artifactId>datssec</artifactId>
+  <version>0.0.7</version>
   <packaging>pom</packaging>
   <description>Latest version</description>
 </project>
